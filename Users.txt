@@ -1,0 +1,2 @@
+ADMIN,1001,Administator,admin@gmail.com,Islamabad,03335454636,1234,0.0
+CUSTOMER,608,DAN,A,AA,331,A,100.0
